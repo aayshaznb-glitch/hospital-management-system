@@ -39,10 +39,6 @@ The Hospital Management System is a software application designed to manage hosp
 
 The project contains the required Java source files and resources for implementing the Hospital Management System.
 
-## 🎯 Conclusion
-
-The Hospital Management System provides an organized way to manage hospital information. The project also demonstrates the practical implementation of important data structures such as Binary Search Tree, Queue, Stack, and Linked List.
-
 ## 🚀 How to Run
 
 1. Clone or download this repository.
@@ -50,6 +46,10 @@ The Hospital Management System provides an organized way to manage hospital info
 3. Make sure all Java files are in the correct package.
 4. Run the main Java class.
 5. Follow the instructions displayed in the console.
+
+## 🎯 Conclusion
+
+The Hospital Management System provides an organized way to manage hospital information. The project also demonstrates the practical implementation of important data structures such as Binary Search Tree, Queue, Stack, and Linked List.
 
 ## 👩‍💻 Project
 
